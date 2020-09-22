@@ -1,0 +1,5 @@
+C:\Users\priyanka.n\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csprojAssemblyReference.cache
+C:\Users\priyanka.n\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfoInputs.cache
+C:\Users\priyanka.n\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfo.cs
+C:\Users\priyanka.n\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.n\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.MvcApplicationPartsAssemblyInfo.cache
